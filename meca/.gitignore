@@ -1,11 +1,7 @@
 logs/
 model*/
-svhn/
-mnist/
-venv/
-source/
-target/
-result_old/
+dataset/
+tds/
 *.txt
 *.pyc
 *.pkl
