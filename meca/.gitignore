@@ -1,0 +1,11 @@
+logs/
+model*/
+svhn/
+mnist/
+venv/
+source/
+target/
+result_old/
+*.txt
+*.pyc
+*.pkl
