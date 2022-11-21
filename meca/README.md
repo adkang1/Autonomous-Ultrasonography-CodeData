@@ -1,9 +1,4 @@
-### Commercial → cHW
-
-This is a very common adaptation benchmark. Following the standard protocol, we used the whole training sets of both datasets,
-resized MNIST images to 32 × 32 and converted SVHN to grayscale.
-
-### Code
+# Code
 To conduct a full training simulation, use ``train.py``. This script calls the main script that establishes the network
 and simulation through four parameters:
 * <b>--method:</b> The method used to calculate the loss and optimize the model's parameters.
